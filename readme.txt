@@ -1,5 +1,5 @@
 === Tag Cloud Canvas ===
-Contributors: noknokstdio
+Contributors: noknok
 Tags: html5, widget, tags, cloud
 Requires at least: 2.8
 Tested up to: 3.3.2
